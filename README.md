@@ -2,7 +2,7 @@
 
 In this assignment given by Birmingham University Data Boot Camp, using machine learning and neural networks, a binary classifier is created to predict if the applicants of the nonprofit foundation Alphabet Soup will be successful if they were funded by Alphabet Soup. For this purpose, data of 34299 rows * 12 columns has been analyzed. 
 
-The futures are:
+Futures are:
 •	EIN and NAME—Identification columns
 •	APPLICATION_TYPE—Alphabet Soup application type
 •	AFFILIATION—Affiliated sector of industry
